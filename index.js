@@ -1,9 +1,7 @@
 // Write your solution in this file!
-let driver = {
-  
-}
+let driver = {}
 
-function updateDriverWithKeyandValue (driver, key, value) {
+function updateDriverWithKeyAndValue (driver, key, value) {
   driver[key] = value
   return driver
 }
