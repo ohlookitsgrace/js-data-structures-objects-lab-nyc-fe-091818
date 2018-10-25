@@ -7,4 +7,4 @@ function updateDriverWithKeyAndValue (driver, key, value) {
   return driverCopy
 }
 
-function 
+function destructivelyUpdateDriverWithKeyAndValue(driver, key, value)
