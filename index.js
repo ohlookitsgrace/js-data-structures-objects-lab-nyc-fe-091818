@@ -1,7 +1,8 @@
 // Write your solution in this file!
-let driver = {}
+let driver = {
+  
+}
 
-function updateDriverWithKeyandValue () {
-  const driverCopy = Object.assign ({}, driver)
-  driverCopy.ability = 'expert'
+function updateDriverWithKeyandValue (driver, key, value) {
+  
 }
