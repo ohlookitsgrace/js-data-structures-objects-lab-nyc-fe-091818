@@ -5,4 +5,5 @@ let driver = {
 
 function updateDriverWithKeyandValue (driver, key, value) {
   driver[key] = value
+  return driver
 }
